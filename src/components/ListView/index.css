@@ -1,0 +1,43 @@
+.list-container {
+    list-style-type: none;
+    text-align: start;
+    text-align: start;
+    display: flex;
+    justify-content: space-between;
+  
+    align-items: center;
+    width: 1000px;
+  }
+  
+  .heading {
+    color: #475569;
+    margin-right: 5px;
+    font-weight: bold;
+    font-size: 15px;
+  }
+  .time {
+    color: #475569;
+  }
+  .history-content {
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    padding: 5px;
+    width: 800px;
+  }
+  .logo {
+    align-self: center;
+    height: 20px;
+    width: 20px;
+    margin-right: 7px;
+  }
+  
+  .domain-url {
+    color: #6697ff;
+  }
+  .delete-logo {
+    margin: 10px;
+    border: 0px;
+    background-color: white;
+  }
+  

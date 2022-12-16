@@ -19,7 +19,7 @@ const ListView = props => {
         className="delete-logo"
         onClick={deleteHistory}
         type="button"
-        data-testid={id}
+        testid='delete'
       >
         <img
           src="https://assets.ccbp.in/frontend/react-js/delete-img.png"
